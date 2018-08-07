@@ -1,0 +1,4 @@
+{
+    "delay": 2500,
+    "webhook": "https://discordapp.com/api/webhooks/xxxxxxxxxx/xxxxxx-xxxxxx/slack"
+}
